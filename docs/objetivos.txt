@@ -1,0 +1,10 @@
+Primera entrega parcial
+Determinación de voto Migratorio
+El presente trabajo de Aprendizaje Automático pretende formular un modelo que permita determinar la presencia del voto migratorio a instancias de un set de datos generado por una encuesta de investigación electoral.
+A tales efectos es importante señalar que el set de datos original que fue producto de un proceso de investigación factico, fue recortado extrayendo del mismo 3 variables que resultan fundamentales para el avance del objeto de estudio en cuestión.
+Por otro lado, cabe destacar que en términos de la investigación cuantitativa electoral vinculada a la realización de encuestas, se obtienen datos que en la gran mayoría de los casos responden a la frecuencia del fenómeno observado, pero pocas veces se formula la apreciación intrínseca del comportamiento de los encuestados en tanto electores y sus eventuales comportamientos como el fenómeno de potencial migración de los mismos.
+Es en este sentido en el cual radica la importancia de la formulación de un modelo
+que logre clasificar adecuadamente este fenómeno de comportamiento electoral.
+Claramente la búsqueda del modelo estará estrictamente orientada a indagar respecto de la existencia o no de electores que presenten señales de migración electoral, a tales efectos se desarrollara una lógica de carácter selectiva a los efectos de etiquetar adecuadamente aquellos electores que presenten estas individualidades o comportamientos y distinguirlos de aquellos que no las presentan.
+Finalmente cuantificar la dimensión en términos de la presencia de este fenómeno dentro del set de datos en cuestión.
+Por último, creo que es importante destacar que este proceso de investigación contrastado con otros de similares características a instancias de posteriores ejecuciones en una línea de tiempo progresiva con nuevos set de datos que contengan las mismas variables de observación brindaran una información muy relevante respecto de la progresión del fenómeno observado, lo que ayudara a la determinación de diagnósticos más precisos que se adapten a la coyuntura observada.
